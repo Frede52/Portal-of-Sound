@@ -5,7 +5,11 @@
 This project was developed as part of the course *IT-Product Design Project 2026* at Aarhus University. It explores how a tangible user interface can reduce the cognitive load Game Masters (GMs) face when managing sound during a session, without pulling their attention onto another screen.
 
 **Authors:** Frederik Arno Kronborg, Anders Kornerup Kok Larsen, Oscar Skov Dinesen
+
 **Supervised by:** Clemens Nylandsted Klokmose, Minna Pakanen & Simon Hoggan Christensen
+
+**Video Demo:**
+https://www.youtube.com/watch?v=TGqnMRk64uA
 
 ---
 
@@ -63,18 +67,6 @@ The system has four main components: the physical **portal**, RFID-tagged **mini
 - Field testing with real GMs during their own sessions showed the tool made sound easier and more fun to manage, encouraging GMs to experiment with sound effects they'd normally skip — though it also surfaced two key needs: per-figure volume control and clearer disconnection feedback.
 - A dedicated UX evaluation of three volume-control concepts led us to the three-level hexagonal platform, chosen for requiring the least attention and supporting eyes-free, intuitive use — best matching our goal of keeping the tool "ready-to-hand."
 - All five evaluation participants rated their likelihood of using the concept in future sessions 4 or 5 out of 5.
-
-## Future Work
-
-- Merge the functional and aesthetic prototypes into a single, fully working unit
-- Better support for improvisation, e.g. a pause/override control or figures with multiple selectable sounds (a goblin with both a friendly and an angry variant)
-- Design dedicated affordances and figures for player-driven sound, beyond GM use
-- User-test the website UI and the full prep-to-play flow as a whole
-
-## Links
-
-- Video demo: https://www.youtube.com/watch?v=TGqnMRk64uA
-- Source code (AU login required): https://gitlab.au.dk/au790437/portal_of_sound
 
 ## About
 
